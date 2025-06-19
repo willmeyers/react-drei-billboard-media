@@ -1,5 +1,5 @@
 # React and Threejs Point Cloud Media
 
-<video>
-    <source src="https://github.com/willmeyers/react-drei-billboard-media/raw/refs/heads/main/screenshots/demo.mp4" />
-</video>
+
+https://github.com/user-attachments/assets/a35c6110-659a-4563-825d-0e0dbf376234
+
