@@ -1,3 +1,3 @@
 # React and Threejs Point Cloud Media
 
-![demo](screenshots/demo.mp4)
+<video src="screenshots/demo.mp4"></video>
